@@ -1,10 +1,15 @@
-langchain-astradb
+# LangChain and ChromaDB dependencies
 langchain
-langchain-community 
-langchain-groq
+chromadb  # No need for 'langchain-chromadb', since Chroma is built-in
+langchain-community
+langchain-openai
+langchain-xai
+# Additional libraries
 datasets
 pypdf
 python-dotenv
 pandas
 flask
+
+# Editable install for local package
 -e .

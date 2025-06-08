@@ -1,1 +1,1 @@
-platform
+project_package
