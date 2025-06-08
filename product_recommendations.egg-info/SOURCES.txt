@@ -1,0 +1,10 @@
+README.md
+setup.py
+platform/__init__.py
+platform/data_converter.py
+platform/data_ingestion.py
+platform/retrieval_generation.py
+product_recommendations.egg-info/PKG-INFO
+product_recommendations.egg-info/SOURCES.txt
+product_recommendations.egg-info/dependency_links.txt
+product_recommendations.egg-info/top_level.txt
